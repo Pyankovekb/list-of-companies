@@ -1,0 +1,12 @@
+.modal {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.3)
+}
+
+button.add {
+    margin-top: 10px;
+}
+
+.danger {
+    outline: 2px solid red;
+}
